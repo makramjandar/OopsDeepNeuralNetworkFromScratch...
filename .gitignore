@@ -1,0 +1,17 @@
+
+# ignore files
+__init__.py
+test_catvnoncat.h5
+train_catvnoncat.h5
+
+
+# ignore directories
+/__pycache__/
+/tmp/
+/.ipynb_checkpoints/
+
+# ignore file types
+*.json
+
+# add an exception (using !) to the preceding rule to track a specific file
+# !package.json
