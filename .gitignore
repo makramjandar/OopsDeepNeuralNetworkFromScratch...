@@ -1,6 +1,5 @@
 
 # ignore files
-__init__.py
 test_catvnoncat.h5
 train_catvnoncat.h5
 
