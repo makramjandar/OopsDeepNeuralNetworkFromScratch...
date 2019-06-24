@@ -12,5 +12,5 @@ How to create seamlessly from scratch a Deep Neural Networks modules and classes
    > ### Modelization <img src="https://cdn.onlinewebfonts.com/svg/img_529901.png" width="50" height="50" align="center"/>
    > ### Prediction <img src="https://cdn.onlinewebfonts.com/svg/img_529894.png" width="50" height="50" align="center"/>
    
-   <center><img src="https://github.com/makramjandar/ressources/blob/master/under-construction-animated.gif" width="200" height="200"></center>
+   <center><img src="https://github.com/makramjandar/ressources/blob/master/under-construction-animated.gif" width="50" height="50"></center>
 
