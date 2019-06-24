@@ -1,6 +1,6 @@
-# Object Oriented Deep Neural Networks
+# Object Oriented Deep Neural Network
 
-How to create seamlessly from scratch a Deep Neural Networks modules and classes with Python !!
+How to create seamlessly from scratch a Deep Neural Network modules and classes with Python !!
 
 
 
