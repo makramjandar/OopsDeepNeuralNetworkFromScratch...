@@ -1,7 +1,12 @@
 # Object Oriented Deep Neural Network
-
+https://mybinder.org/v2/gh/makramjandar/Object-Oriented-Deep-Neural-Networks/d489840619320c922bd12203844b92f9ef67f3a9
 How to create seamlessly from scratch a Deep Neural Network modules and classes with Python !!
 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/makramjandar/Object-Oriented-Deep-Neural-Networks/master?urlpath=https%3A%2F%2Fgithub.com%2Fmakramjandar%2FObject-Oriented-Deep-Neural-Networks%2Fblob%2Fmaster%2Fdnn.ipynb)
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/makramjandar/Object-Oriented-Deep-Neural-Networks/master?urlpath=https%3A%2F%2Fgithub.com%2Fmakramjandar%2FObject-Oriented-Deep-Neural-Networks%2Fblob%2Fmaster%2Fdnn.ipynb
 
 
 [** How to evaluate a binary classifier](https://www.kdnuggets.com/2017/04/must-know-evaluate-binary-classifier.html)
