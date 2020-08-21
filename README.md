@@ -3,8 +3,8 @@
 ```
 How to
 Create seamlessly from scratch a 
-classy Python Deep Neural Network with
-Modules and Classes ...
+classy Object Oriented Deep Neural Network with
+Python's Modules and Classes ...
 ```
   
   
