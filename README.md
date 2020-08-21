@@ -1,4 +1,4 @@
-# Object Oriented Deep Neural Network  
+# Oop's !! Deep Neural Network from Scratch...  
 
 ```
 How to
