@@ -1,13 +1,14 @@
 # Object Oriented Deep Neural Network  
 
 ```
-How to create seamlessly from scratch a 
-Deep Neural Network modules and classes with Python !!
+How to
+Create seamlessly from scratch a 
+Deep Neural Network with modules and classes with Python ...
 ```
   
   
-[![Binder](https://hub.gke.mybinder.org/user/makramjandar-ob-neural-networks-pnaqesrj/notebooks/dnn.ipynb)
-  
+![Binder](https://hub.gke.mybinder.org/user/makramjandar-ob-neural-networks-pnaqesrj/notebooks/dnn.ipynb)
+
   
    > ### [Processing](https://github.com/makramjandar/Object-Oriented-Deep-Neural-Networks/blob/master/processing.py) <img src="https://cdn.onlinewebfonts.com/svg/img_529869.png" width="50" height="50" align="center"/>
    > ### [Initialization](https://github.com/makramjandar/Object-Oriented-Deep-Neural-Networks/blob/master/dnn/initialization.py) <img src="https://cdn.onlinewebfonts.com/svg/img_529872.png" width="50" height="50" align="center"/>
