@@ -6,7 +6,7 @@ Deep Neural Network modules and classes with Python !!
 ```
   
   
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/makramjandar/Object-Oriented-Deep-Neural-Networks/d489840619320c922bd12203844b92f9ef67f3a9)  
+[![Binder](https://hub.gke.mybinder.org/user/makramjandar-ob-neural-networks-pnaqesrj/notebooks/dnn.ipynb)
   
   
    > ### [Processing](https://github.com/makramjandar/Object-Oriented-Deep-Neural-Networks/blob/master/processing.py) <img src="https://cdn.onlinewebfonts.com/svg/img_529869.png" width="50" height="50" align="center"/>
