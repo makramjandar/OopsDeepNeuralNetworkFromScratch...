@@ -4,7 +4,7 @@
 How to
 Create seamlessly from scratch a 
 classy Object Oriented Deep Neural Network with
-Python's Modules and Classes ...
+Python's modules and classes ...
 ```  
   
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/makramjandar/Object-Oriented-Deep-Neural-Networks/d489840619320c922bd12203844b92f9ef67f3a9)  
