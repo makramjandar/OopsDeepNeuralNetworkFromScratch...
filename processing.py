@@ -1,14 +1,15 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-# @uthor: Makram Jandar 
+# @uthor: Makram Jandar
+#   ___   ___    __      __   ___  ____  ___ ___ ___    ____
 #  |    \|    \ /   \   /  ] /  _] ___/ ___/    |    \ /    |
 #  |  o  )  D  )     | /  / /  [(   \(   \_ |  ||  _  |   __|
 #  |   _/|    /|  O  |/  / |    _]__  \__  ||  ||  |  |  |  |
 #  |  |  |    \|     /   \_|   [_/  \ /  \ ||  ||  |  |  |_ |
 #  |  |  |  .  \     \     |     \    \    ||  ||  |  |     |
 #  |__|  |__|\_|\___/ \____|_____|\___|\___|____|__|__|___,_|
-#          © Data Processing - dl, exploration, flatenning...
+#         © Data Processing - dwl, exploration, flatenning...
 
 import h5py as h5
 from numpy import array, reshape, shape
