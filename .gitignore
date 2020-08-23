@@ -12,5 +12,5 @@ train_catvnoncat.h5
 # ignore file types
 *.json
 
-# add an exception (using !) to the preceding rule to track a specific file
+# add an exception (using !) to the preceding rule to track specific file
 # !package.json
